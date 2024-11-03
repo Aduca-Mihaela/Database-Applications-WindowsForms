@@ -1,0 +1,11 @@
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\bin\Debug\partial2.exe.config
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\bin\Debug\partial2.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\bin\Debug\partial2.pdb
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\obj\Debug\partial2.csproj.AssemblyReference.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\obj\Debug\partial2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\obj\Debug\partial2.Form1.resources
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\obj\Debug\partial2.Properties.Resources.resources
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\obj\Debug\partial2.csproj.GenerateResource.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\obj\Debug\partial2.csproj.CoreCompileInputs.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\obj\Debug\partial2.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\partial2\partial2\obj\Debug\partial2.pdb

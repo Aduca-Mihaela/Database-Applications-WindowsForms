@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJiHQXFs8LCHJmKcFUT81CZ4MgNPDE9hjLC9LsPNGYJe8HchbIw7gkEweWdZF8aIY//ZUO+RZa2OLVLQvni0vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tinuta.mihaila\\Desktop\\SGBD\\SCOALALAB1\\SCOALALAB1\\SCOALALAB1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tinuta.mihaila\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\tinuta.mihaila\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\tinuta.mihaila\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\tinuta.mihaila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\bin\Debug\Problema3.exe.config
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\bin\Debug\Problema3.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\bin\Debug\Problema3.pdb
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\obj\Debug\Problema3.csproj.AssemblyReference.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\obj\Debug\Problema3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\obj\Debug\Problema3.Form1.resources
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\obj\Debug\Problema3.Properties.Resources.resources
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\obj\Debug\Problema3.csproj.GenerateResource.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\obj\Debug\Problema3.csproj.CoreCompileInputs.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\obj\Debug\Problema3.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\Problema3\Problema3\obj\Debug\Problema3.pdb

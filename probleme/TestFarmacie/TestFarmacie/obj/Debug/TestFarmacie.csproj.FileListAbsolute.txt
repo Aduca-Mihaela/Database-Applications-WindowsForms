@@ -1,0 +1,11 @@
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\bin\Debug\TestFarmacie.exe.config
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\bin\Debug\TestFarmacie.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\bin\Debug\TestFarmacie.pdb
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\obj\Debug\TestFarmacie.csproj.AssemblyReference.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\obj\Debug\TestFarmacie.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\obj\Debug\TestFarmacie.Form1.resources
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\obj\Debug\TestFarmacie.Properties.Resources.resources
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\obj\Debug\TestFarmacie.csproj.GenerateResource.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\obj\Debug\TestFarmacie.csproj.CoreCompileInputs.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\obj\Debug\TestFarmacie.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\TestFarmacie\TestFarmacie\obj\Debug\TestFarmacie.pdb

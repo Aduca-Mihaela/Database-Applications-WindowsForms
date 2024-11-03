@@ -1,0 +1,11 @@
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\obj\Debug\examS1.csproj.AssemblyReference.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\obj\Debug\examS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\obj\Debug\examS1.Form1.resources
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\obj\Debug\examS1.Properties.Resources.resources
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\obj\Debug\examS1.csproj.GenerateResource.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\obj\Debug\examS1.csproj.CoreCompileInputs.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\bin\Debug\examS1.exe.config
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\bin\Debug\examS1.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\bin\Debug\examS1.pdb
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\obj\Debug\examS1.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\probleme\examS1\examS1\obj\Debug\examS1.pdb

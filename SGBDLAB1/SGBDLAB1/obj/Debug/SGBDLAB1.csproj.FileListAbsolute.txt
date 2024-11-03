@@ -1,0 +1,11 @@
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\bin\Debug\SGBDLAB1.exe.config
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\bin\Debug\SGBDLAB1.exe
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\bin\Debug\SGBDLAB1.pdb
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\obj\Debug\SGBDLAB1.csproj.AssemblyReference.cache
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\obj\Debug\SGBDLAB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\obj\Debug\SGBDLAB1.Form1.resources
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\obj\Debug\SGBDLAB1.Properties.Resources.resources
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\obj\Debug\SGBDLAB1.csproj.GenerateResource.cache
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\obj\Debug\SGBDLAB1.csproj.CoreCompileInputs.cache
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\obj\Debug\SGBDLAB1.exe
+C:\Users\tinuta.mihaila\Desktop\SGBDLAB1\SGBDLAB1\obj\Debug\SGBDLAB1.pdb

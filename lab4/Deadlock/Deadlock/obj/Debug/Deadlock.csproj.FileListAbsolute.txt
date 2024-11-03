@@ -1,0 +1,8 @@
+C:\Users\tinuta.mihaila\Desktop\SGBD\lab4\Deadlock\Deadlock\bin\Debug\Deadlock.exe.config
+C:\Users\tinuta.mihaila\Desktop\SGBD\lab4\Deadlock\Deadlock\bin\Debug\Deadlock.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\lab4\Deadlock\Deadlock\bin\Debug\Deadlock.pdb
+C:\Users\tinuta.mihaila\Desktop\SGBD\lab4\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.AssemblyReference.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\lab4\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\lab4\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\tinuta.mihaila\Desktop\SGBD\lab4\Deadlock\Deadlock\obj\Debug\Deadlock.exe
+C:\Users\tinuta.mihaila\Desktop\SGBD\lab4\Deadlock\Deadlock\obj\Debug\Deadlock.pdb
